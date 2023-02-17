@@ -1,0 +1,17 @@
+{
+  "name": "websniff_backend",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "git@github.com:alexanderschatzberg/websniff_backend.git",
+  "author": "Alexander Schatzberg <alex1nderschatzberg@gmail.com>",
+  "private": true,
+  "scripts": {
+    "start": "node dist/index.js",
+    "dev": "nodemon src/index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "typescript": "^4.9.5"
+  }
+}
