@@ -48,13 +48,16 @@ candidateRouter.post("/", async (req: Request, res: Response) => {
     });
 });
 
-//Get a candidate by id
+//Get a candidate by id, including photometry data
 candidateRouter.get("/:id", async (req: Request, res: Response) => {
   const { id } = req.params; //Get the id from the url
   await prisma.candidate //Find the candidate
     .findUnique({
       where: {
         id,
+      },
+      include: {
+        Photometry: true, //Include the photometry data for the candidate
       },
     })
     .then((candidate: Candidate | null) => {
