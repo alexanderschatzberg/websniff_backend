@@ -21,6 +21,8 @@ app.listen(port, () => {
 
 //Import routes
 import candidateRouter from "./candidate";
+import photometryRouter from "./photometry";
 
 //Use routes
 app.use("/candidate", candidateRouter);
+app.use("/photometry", photometryRouter);
