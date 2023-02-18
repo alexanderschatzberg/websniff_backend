@@ -1,10 +1,9 @@
 # websniff_backend
 
-- [websniff_backend](#websniff_backend)
-  - [Getting Started](#getting-started)
-  - [Project Structure](#project-structure)
-  - [Database](#database)
-  - [Hosting](#hosting)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [Database](#database)
+- [Hosting](#hosting)
 
 ## Getting Started
 
