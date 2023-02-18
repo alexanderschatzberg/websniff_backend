@@ -39,10 +39,10 @@
 
 ## For Nico: Things to Learn About (in no particular order)
 
-- [ ] [Prisma](https://www.prisma.io/)
-- [ ] [TypeScript](https://www.typescriptlang.org/)
-- [ ] [Express](https://expressjs.com/)
-- [ ] [Postgres](https://www.postgresql.org/)
-- [ ] [Node.js](https://nodejs.org/en/)
-- [ ] [Yarn](https://yarnpkg.com/)
-- [ ] [Postman](https://www.postman.com/)
+- [Prisma](https://www.prisma.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Express](https://expressjs.com/)
+- [Postgres](https://www.postgresql.org/)
+- [Node.js](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/)
+- [Postman](https://www.postman.com/)
