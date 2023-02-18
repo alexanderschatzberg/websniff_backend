@@ -8,6 +8,9 @@ dotenv.config();
 const app: Application = express();
 const prisma = new PrismaClient();
 
+//Middleware
+app.use(express.json());
+
 // The port the express app will listen on
 const port = process.env.PORT || 3000;
 
@@ -21,8 +24,3 @@ import candidateRouter from "./candidate";
 
 //Use routes
 app.use("/candidate", candidateRouter);
-
-// Dummy route
-app.get("/", (req: Request, res: Response) => {
-  res.send("Hello World!");
-});
