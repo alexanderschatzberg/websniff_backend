@@ -4,6 +4,7 @@
 - [Project Structure](#project-structure)
 - [Database](#database)
 - [Hosting](#hosting)
+- [Things to Learn](#for-nico-things-to-learn-about-in-no-particular-order)
 
 ## Getting Started
 
@@ -35,3 +36,12 @@
 ## Hosting
 
 - TODO: figure out hosting provider w/ Nico
+
+## For Nico: Things to Learn About (in no particular order)
+
+- How to use Prisma
+- How to use Postgres
+- How to use Typescript
+- How to use Express
+- How to use Node.js
+- How to use Yarn
