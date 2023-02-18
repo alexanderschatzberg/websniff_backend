@@ -39,9 +39,10 @@
 
 ## For Nico: Things to Learn About (in no particular order)
 
-- How to use Prisma
-- How to use Postgres
-- How to use Typescript
-- How to use Express
-- How to use Node.js
-- How to use Yarn
+- [ ] [Prisma](https://www.prisma.io/)
+- [ ] [TypeScript](https://www.typescriptlang.org/)
+- [ ] [Express](https://expressjs.com/)
+- [ ] [Postgres](https://www.postgresql.org/)
+- [ ] [Node.js](https://nodejs.org/en/)
+- [ ] [Yarn](https://yarnpkg.com/)
+- [ ] [Postman](https://www.postman.com/)
